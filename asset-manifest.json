@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ThomasGamil1/MoviesProject/static/css/main.ea0a9ad4.css",
+    "main.js": "/ThomasGamil1/MoviesProject/static/js/main.f823001f.js",
+    "index.html": "/ThomasGamil1/MoviesProject/index.html",
+    "main.ea0a9ad4.css.map": "/ThomasGamil1/MoviesProject/static/css/main.ea0a9ad4.css.map",
+    "main.f823001f.js.map": "/ThomasGamil1/MoviesProject/static/js/main.f823001f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea0a9ad4.css",
+    "static/js/main.f823001f.js"
+  ]
+}
